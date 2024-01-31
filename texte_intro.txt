@@ -1,0 +1,27 @@
+Chapter 1 - Cell Cortex
+
+* The cytoskeletons
+As most PhD students, I like science memes, and this one (fig 1) might be a favourite of mine because it depicts humourously a very much real opposition of styles that i have experienced in many situations. The physicists do like to simplify a problem until it becomes easy to modelize, while the biologists often like to remind the unreal complexity of the real living things they study. However I think that this meme is slightly outdated, because the physicists' cell is not empty anymore. Actually the cell have been full of things physicists really love to study and play with (and this may be my personnal definition of biophysics). Among these things, one of the most studied is the cytoskeleton. The cytoskeleton can be defined as an assembly of diverse types of biopolymer networks that forms inside the cell and has very fundamental functions: organise the cell content, displace objects inside the cell with precision, control the cell shape and movement, exerce forces on intra- and extra- cellular objects and control a large part of the cell mechanical properties. The cytoskeleton is almost by definition a biophysical object: thanks to it, biophysicits can now happily fill this empty cell with a lot of springs, dashpots, contractile elements and other growing, shrinking, diffusing and moving things.
+The cytoskeleton is made three different families of proteins: microtubules, intermediate filaments and actin filaments. They assemble in polymer fibers which forms distinct networks and have very different properties, but nonetheless interact tightly with each others. The microtubules are the largest and stiffest structures in the cytoskeleton: this makes them suited to cellular functions involving precise organisation of cellular components, such as the tight control of chromosomes movement during mitosis. Intermediate filaments (IF) are a whole family of long and flexible fibers, such as keratin or vimentin. As the most stable type of cytoskeletal polymer, the IFs are very resistant to tension and allow cells and tissue to withstand large extensile stress. Finally, actin filaments are going to be one of our main focus in this work
+
+* What is the cell cortex ?
+The cortex generally refers to the enveloppe or the outer layer of an object. It means tree bark in latin, which means it has been used to refer to living organisms from the very beginning. I always found the use of that word in cell biology relevant and confusing at the same time, because the cortex is in many ways the enveloppe of the cell but it is not its outermost layer. The inside and the outside of a cell are defined by the plasma membrane, a lipidic bilayer which supports a host of transmembrane proteins, which is both what seals the cell from its environment and what allows the cell to communicate chemically with its surrounding. The cortex is right below this membrane: it consists in a thin and dense layer of proteins, mostly a network of actin filaments. 
+
+* Functions
+
+* Composition
+
+* Architecture
+
+
+
+Chapter 1-1/2 - The cortex in cancer & dev biology
+
+
+
+Chapter 2 - Cell mechanics
+
+
+
+Chapter 2-1/2 - Tissue mechanics
+

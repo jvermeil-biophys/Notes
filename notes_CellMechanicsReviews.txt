@@ -1,0 +1,17 @@
+Cell Mechanics Reviews
+
+* Linear and non-linear Rheology of Living Cells, 2011
+In this enlightening review article, Philip Kollmannsberger and Ben Fabry acomplish a beautiful synthesis of the state of theorical understanding of the living cell rheology, and compare each theorical approach in the light of a large collection of experimental results. As this paper is too rich to be summarized as a whole, I will simply note a few key ideas relevant to different themes.
+1) General comments
+- The proteins composing the cytoskeleton are the most abundant in a cell. 
+- Cytoskeleton dynamics are astonishing: while it represents a considerable fraction of the cell metabolic energy, the cytoskeleton is constantly being destroyed and rebuild, again and again (sandcastle image).
+- Cells are exceedingly soft objects, which is puzzling when considering that many of their components are very stiff: actin Young modulus = 1~2GPa. This is because of the cummulated effects of the small volume fraction occupied by the cytoskeleton (0.1-1%), the fact filaments are sollicitated in bending rather than stretching, and the dynamic nature of the cytoskeletal structures, which are not stable but constantly remodeled (with a spectrum of timescales where some are very short !).
+
+
+
+2) Creep response and viscoelasticity
+
+
+3) Stress-stiffening behavior
+
+
