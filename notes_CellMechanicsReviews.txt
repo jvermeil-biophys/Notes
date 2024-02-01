@@ -13,5 +13,23 @@ In this enlightening review article, Philip Kollmannsberger and Ben Fabry acompl
 
 
 3) Stress-stiffening behavior
+What is the difference between prestress-stiffening and stress-stiffening ? I need to find out !!
+
+
+
+
+* Tensegrity, cellular biophysics, and the mechanics of living systems, 2014
+
+Tensegrity is an original notion in the field of cell mechanics, because it originated from the field of architecture. Invented by R. Buckminster Fuller in the 1960s, the word tensegrity is actually short for tensional integrity, refering to structure where the stabilizing forces are not compressive, like in most building (the pyramids : blocks upon blocks), but tensile forces. Most simple examples of self-stabilizing tensegrity structures are composed of rigid elements (struts) linked by tensile elements (cables). In such structure the struts do not touch each others but are suspended by the balance of tensile forces exerced on them. It was proposed as a model of the cell mechanics upon the observation that microtubules and actomyosin stress fibers may be likened to rigid struts and tensile cables, respectively. In this approach, a cell and its environment (neighbour cells, ECM or FA on a rigid substrate) are represented as a collection of rigid elements linked and stabilized by tensile and contractile actomyosin cables.
+<Figure with the 6 struts cell and the flattening experiment>
+Tensegrity is not the most popular cell mechanics model these days. While it is hard for me to say exactly why, I guess that the very strong assumptions it requires and the necessity to link any observation at the microscale to the over-arching structure of the cell and the surrounding matrix has probably discouraged many experimentalists to try this approach. However I think it is a very fruitful and useful model, especially for me who focalize on the cortex mechanics, and will naturally tend to link as many observations as I can with cortical properties of the cell. Indeed, tensegrity is a theory that almost eliminate the idea of a continuous shell of relatively stiff material to explain the cell mechanical properties. It is in a way orthogonal to our working model, in which most of the cell mechanical properties originate from its shell. I think it is important to acknowledge that both models might be necessary to describe the cell. Indeed, while not very often used to interprete results in the last few years, the tensegrity model matches many important experimental features of cell mechanics:
+	- A positive relation between prestress of the cytoskelatal structure and the cell stiffness have been observed in many cases and is seen as an universal feature of cell mechanics. This is very well captured by the tensegrity model, where the prestress plays an essential role in making the structure stable and determining directly how compliant it is.
+	- The buckling of microtubule which happens in cells
+	- The strain-stiffening behavior, another very common feature of cells, could very well be explain by a rearranging of the rigid elements in response to the strain.
+	- The fact cell change affect the stiffness of the cell would be a consequence of the first two points.
+	- Tensigrity predicts a realistic range of elastic modulus at the whole cell scale: from 10kPa (in the case where the determining event is the rupture of actin fibers) to 0.1kPa (in the case where the only obstacle is microtubule buckling).
+	- It is conceptually very close to current understandings of mechanotransduction: the connectors between struts (FA or MT) and tensile actomyosin cable could be spring like protein which by extending would create a signal related to the local tension in the cytoskeleton.
+	- It is to some extent compatible with the viscoelastic nature of the cell, if one represent each cable in the system by a Kelvin-Voigt element. Reconciling tensigrity with a power-law rheology would be however much more difficult, since it would require an infinite number of spring-and-dashpot elements to do so.
+In conclusion tensegrity is interesting and probably relevant to use locally, but very hard to invoke for cell-scale events. Obviously, as a model which commonly neglects the contribution of the cortex, we cannot use it directly for our work, but rather as a though experiment.
 
 
