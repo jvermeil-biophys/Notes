@@ -1,0 +1,50 @@
+Cell Mechanics
+
+#### Historical perspective
+
+### Mecanism is the new vitalism
+Quite often, text books about cell mechanics starts by stating the idea that cells are physical objects, governed by laws of mechanics (just like a tennis ball or a helicopter). I always found this reminder very interesting, because for most people (including me as an undergrad student) this very simple idea is far from obvious. To the general public, cells are mostly interacting biochemically, through hormones or other cues, and the drugs we use to treat disease also proceed the same way. Moreover, this sort of blind spot in our conception of living objects is actually quite old
+
+### It's alive! Electricity & entropy
+* Illustration: Frankenstein *
+
+### We are the robots
+* Kraftwerk: the robots *
+
+### Emergeance of cell mechanics
+Philip Anderson
+
+Quest of an integrated mechanical model for the cell
+
+The scales of cell mechanics
+* Nanoscale
+
+* Mesoscale(s)
+
+* Cell scale
+
+* Tissue scale
+
+Mechanotransduction
+
+
+Whole-cell models [with boxes for each of the techniques]
+* Elastic ball [AFM box]
+* Viscous droplet [Parallel plates, flat AFM]
+* Power-law rheology -> whole cell, cytoplasm, actin gel [MTC, particles microrheol] [Box on rheology ?]
+* Thin visco-elastic shell
+* PM mechanics !
+* Tensegrity
+
+Bottom-up approaches
+* Actin filaments
+* Actomyosin gel
+
+Mesoscales
+* FA
+* Actin gels / Lamellipodial network
+* Cortex
+
+
+
+Whole tissue models: Hill's law for the muscle
